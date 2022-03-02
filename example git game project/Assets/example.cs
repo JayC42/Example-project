@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class example : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Good day gentlemans!
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    // This is an update method
     void Update()
     {
         
